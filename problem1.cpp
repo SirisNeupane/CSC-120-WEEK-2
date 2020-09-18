@@ -2,7 +2,7 @@
 #include <iostream> // enables program to output data to the screen
 
 // function main begins program execution
-int main {
+int main() { //missing paranthesis
    std::cout << "Welcome to \nC++ape\n C++od!\n"; // display message
 
    return 1; // indicate that program ended successfully
