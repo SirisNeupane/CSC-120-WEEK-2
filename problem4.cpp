@@ -42,4 +42,6 @@ int main() {
    }
 
    return 1;
+
+   cin.get();
 } // end function main
