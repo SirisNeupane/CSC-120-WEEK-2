@@ -41,7 +41,7 @@ int main() {
       cout << number1 << " >= " << number2 << endl;
    }
 
-   return 1;
+   return 0;
 
    cin.get();
 } // end function main

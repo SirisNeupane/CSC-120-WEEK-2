@@ -23,4 +23,5 @@ int main() {
 
    std::cout << "Sum is " << sum << std::endl; // display sum; end line //<< is cout
 
+   return 0;
 } // end function main

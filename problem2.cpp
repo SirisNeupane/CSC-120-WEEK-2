@@ -4,5 +4,5 @@
 int main() {
    std::cout << "Welcome\nto\n\nC++!\n"; //missing namespace std
 
-   return 1; //missing return
+   return 0; //missing return
 } // end function main
