@@ -8,7 +8,7 @@ int main() {
 
    //paranthesis, not curly brackets. also missing ';' in number2
 
-   int number1(10); // first integer to add (initialized to 0)    
+   int number1(0); // first integer to add (initialized to 0)    
 
    int number2(0); // second integer to add (initialized to 0) 
    int sum(0); // sum of number1 and number2 (initialized to 0)
